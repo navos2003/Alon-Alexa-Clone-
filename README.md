@@ -1,1 +1,3 @@
-# Alon-Alexa-Clone-
+# ALON-Virtual-Assistant
+
+Project for HackKean
